@@ -215,9 +215,8 @@ img {
   margin-top: 0;
   max-width: 22ch;
 }
-.cta--image {
+.cta--image img {
   border-radius: 100%;
-  overflow: hidden;
 }
 @media (min-width: 60rem) {
   .cta {
